@@ -1,0 +1,49 @@
+*{
+  font-family: 'El Messiri';
+  box-sizing: border-box;
+  direction: rtl;
+}
+.logo {
+  text-align: center;
+  margin: 30px 0;
+}
+.logo img {
+  width:200px;
+}
+.logo h2{
+  font-size: 30px;
+  color: #0095da;
+  margin-top: 0;
+  margin-bottom: 80px;
+}
+.booking{
+  text-align: center;
+}
+
+.booking p{
+  font-size: 20px;
+  font-weight: 700;
+  color: cadetblue;
+}
+
+.booking input{
+  margin-bottom: 10px;
+  width: 60%;
+  padding:15px;
+}
+.booking input[type="submit"]{
+  background: #0095da;
+  color: white;
+  border: none;
+}
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background: #00a9b0;
+    color: #fff;
+    padding: 5px 0;
+}
